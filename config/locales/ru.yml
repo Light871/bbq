@@ -21,6 +21,11 @@ ru:
       destroyed: 'Событие было успешно удалено'
     users:
       updated: 'Профиль успешно изменен'
+    comments:
+      created: 'Комментарий был успешно создан'
+      destroyed: 'Комментарий был успешно удален'
+      error: 'Ошибка'
   app:
     name: 'Шашлыки'
     company: 'MINT Inc.'
+    are_you_sure: 'Вы уверены?'
