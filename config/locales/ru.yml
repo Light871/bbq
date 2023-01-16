@@ -14,4 +14,13 @@ ru:
         address: 'Место проведения'
         datetime: 'Дата и время'
         description: 'Описание'
-  bbq: 'Шашлыки'
+  controllers:
+    events:
+      created: 'Событие было успешно создано'
+      updated: 'Событие было успешно изменено'
+      destroyed: 'Событие было успешно удалено'
+    users:
+      updated: 'Профиль успешно изменен'
+  app:
+    name: 'Шашлыки'
+    company: 'MINT Inc.'
