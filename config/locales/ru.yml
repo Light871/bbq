@@ -29,3 +29,6 @@ ru:
     name: 'Шашлыки'
     company: 'MINT Inc.'
     are_you_sure: 'Вы уверены?'
+  comments:
+    comment:
+      destroy_confirm: 'Вы уверены что хотите удалить этот комментарий?'
