@@ -25,6 +25,10 @@ ru:
       created: 'Комментарий был успешно создан'
       destroyed: 'Комментарий был успешно удален'
       error: 'Ошибка'
+    subscriptions:
+      created: 'Подписка была успешно создана'
+      destroyed: 'Подписка была успешно удалена'
+      error: 'Ошибка'
   app:
     name: 'Шашлыки'
     company: 'MINT Inc.'
@@ -32,3 +36,6 @@ ru:
   comments:
     comment:
       destroy_confirm: 'Вы уверены что хотите удалить этот комментарий?'
+  subscriptions:
+    subscription:
+      destroy_confirm: 'Вы уверены что хотите удалить эту подписку?'
