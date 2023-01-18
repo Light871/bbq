@@ -12,6 +12,7 @@ gem 'devise-i18n'
 gem 'russian'
 gem 'carrierwave'
 gem 'rmagick'
+gem 'fog-aws'
 
 group :development, :test do
   gem 'pry-rails'
