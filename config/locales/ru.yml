@@ -30,6 +30,10 @@ ru:
       created: 'Подписка была успешно создана'
       destroyed: 'Подписка была успешно удалена'
       error: 'Ошибка'
+    photos:
+      created: 'Фото было успешно создано'
+      destroyed: 'Фото было успешно удалено'
+      error: 'Ошибка'
   app:
     name: 'Шашлыки'
     company: 'MINT Inc.'
